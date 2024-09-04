@@ -6,9 +6,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-# João Antonio <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+# João Antonio <img src="https://media.tenor.com/RW58aMjtZlAAAAAM/mashle-magic-and-muscles-mash-eatinmg-cream-puff-mashle-magic-and-muscles.gif" width="30px">
 
-Eu sou <strong>Seu Nome</strong>, <strong>Faça uma breve apresentação aqui</strong> 👨🏻‍💻 
+Eu sou <strong>João Antonio</strong>, <strong>sou estudante de Análise e Desenvolvimento de Sistemas na Facudade Senac</strong> 👨🏻‍💻 
 
 - 🚀 Atualmente estou aprendendo: <strong>Coloque as linguagens que você atualmente está aprendendo</strong> 
 - 💬 Pergunte-me sobre: <strong>Seus hobbies</strong>
