@@ -6,7 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-# João Antonio <img src="https://media.tenor.com/RW58aMjtZlAAAAAM/mashle-magic-and-muscles-mash-eatinmg-cream-puff-mashle-magic-and-muscles.gif" width="30px">
+# João Antonio <img src="https://media.tenor.com/a8K93X-8sSEAAAAM/mashle-dance-mashle-s2.gif" width="30px">
 
 Eu sou <strong>João Antonio</strong>, <strong>sou estudante de Análise e Desenvolvimento de Sistemas na Facudade Senac</strong> 👨🏻‍💻 
 
