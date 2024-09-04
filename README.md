@@ -8,7 +8,7 @@
 
 # João Antonio <img src="https://media.tenor.com/a8K93X-8sSEAAAAM/mashle-dance-mashle-s2.gif" width="50px">
 
-Eu sou <strong>João Antonio</strong>, <strong>sou estudante de Análise e Desenvolvimento de Sistemas na Facudade Senac</strong> 👨🏻‍💻 
+Eu sou <strong>João Antonio</strong>, <strong>sou estudante de Análise e Desenvolvimento de Sistemas na Facudade Senac/PE</strong> 👨🏻‍💻 
 
 - 🚀 Atualmente estou aprendendo: <strong>Javascript.</strong> 
 - 💬 Pergunte-me sobre: <strong>Seus hobbies</strong>
