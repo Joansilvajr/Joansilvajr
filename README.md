@@ -3,13 +3,13 @@
 <h1 align="center">Olá! Meu nome é João Antonio Jr</h1>
 <h3 align="center">Sou estudante de Análise e Desenvolvimento de Sistemas na Faculdade Senac-PE</h3>  👨🏾‍💻📚
 
-- Estou trabalhando no desenvolvimento de projetos para a Faculdade Senac-PE [EntreLinhas](https://senacpernambuco-my.sharepoint.com/:p:/g/personal/thaise_renaux_edu_pe_senac_br/Ee7kGR3-WllCqDPfvH7DUwwBbATaRjMqQwKyNQJX_9NZ1g?e=kLbh1W)
+- Estou trabalhando no desenvolvimento de projetos para a Faculdade Senac-PE
+- [EntreLinhas](https://senacpernambuco-my.sharepoint.com/:p:/g/personal/thaise_renaux_edu_pe_senac_br/Ee7kGR3-WllCqDPfvH7DUwwBbATaRjMqQwKyNQJX_9NZ1g?e=kLbh1W)
 
-- 🌱 Estou atualmente aprendendo a programar em javascript e banco de dados MySQL, e Inteligência Artificial **Cursos: Faculdade Senac-PE, Alura, Infinity School**
-
+- 🌱 Estou atualmente aprendendo a programar em javascript e banco de dados MySQL.
+-  **Cursos: Faculdade Senac-PE.
 - 📫 Caso queira entrar em contato esse é meu gmail: **joaoo.ali@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
