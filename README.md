@@ -1,13 +1,13 @@
 # João Antonio Jr <img src="https://media.tenor.com/a8K93X-8sSEAAAAM/mashle-dance-mashle-s2.gif" width="50px">
 
 <h1 align="center">Olá! Meu nome é João Antonio Jr</h1>
-<h3 align="center">Sou estudante de Análise e Desenvolvimento de Sistemas na Faculdade Senac-PE</h3>  👨🏾‍💻📚
+<h3 align="center">Sou estudante de Análise e Desenvolvimento de Sistemas na Faculdade Senac-PE</h3>👨🏾‍💻📚
 
 - Estou trabalhando no desenvolvimento de projetos para a Faculdade Senac-PE
 - [EntreLinhas](https://senacpernambuco-my.sharepoint.com/:p:/g/personal/thaise_renaux_edu_pe_senac_br/Ee7kGR3-WllCqDPfvH7DUwwBbATaRjMqQwKyNQJX_9NZ1g?e=kLbh1W)
 
 - 🌱 Estou atualmente aprendendo a programar em javascript e banco de dados MySQL.
--  **Cursos: Faculdade Senac-PE.
+- Cursos: Faculdade Senac-PE.
 - 📫 Caso queira entrar em contato esse é meu gmail: **joaoo.ali@gmail.com**
 
 <p align="left">
