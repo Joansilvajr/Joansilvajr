@@ -1,4 +1,4 @@
-# João Antonio Jr <img src="https://media1.tenor.com/m/KDX8Vs4jiaUAAAAC/my-hero-academia-mha.gif" width="200" height="200" alt="a cartoon character with green hair and a helmet" style="max-width: 200;">
+# João Antonio Jr <img src="https://media1.tenor.com/m/KDX8Vs4jiaUAAAAC/my-hero-academia-mha.gif" width="90" height="90" alt="a cartoon character with green hair and a helmet" style="max-width: 200;">
 <h1 align="center">Olá! Meu nome é João Antonio Jr. Seja bem vindo ao meu perfil!</h1>
 <h3 align="center">Sou estudante de ADS na Faculdade Senac-PE</h3>
 
