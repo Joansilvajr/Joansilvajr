@@ -1,4 +1,4 @@
-# João Antonio Jr <img src="https://media1.tenor.com/m/q9bn2U5DZtUAAAAC/boku-no-hero-academia-head-bang.gif" width="50" height="584.561403508772" alt="a cartoon of a boy holding a toy in his hand ." style="max-width: 50px;">
+# João Antonio Jr <img src="https://media1.tenor.com/m/q9bn2U5DZtUAAAAC/boku-no-hero-academia-head-bang.gif" width="50" height="50" alt="a cartoon of a boy holding a toy in his hand ." style="max-width: 50px;">
 <h1 align="center">Olá! Meu nome é João Antonio Jr. Seja bem vindo ao meu perfil!</h1>
 <h3 align="center">Sou estudante de ADS na Faculdade Senac-PE</h3>
 
