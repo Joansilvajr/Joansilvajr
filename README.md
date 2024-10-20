@@ -1,4 +1,4 @@
-# João Antonio Jr <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://static1.cbrimages.com/wordpress/wp-content/uploads/2023/02/my-hero-academia-deku-writing.jpg" width="400" height="300">
+# João Antonio Jr <img src="https://media.tenor.com/a8K93X-8sSEAAAAM/mashle-dance-mashle-s2.gif" width="50px">
 <h1 align="center">Olá! Meu nome é João Antonio Jr. Seja bem vindo ao meu perfil!</h1>
 <h3 align="center">Sou estudante de ADS na Faculdade Senac-PE</h3>
 
