@@ -1,4 +1,4 @@
-# João Antonio Jr <img alt="" class="hCL kVc L4E MIw N7A XiG" fetchpriority="high" loading="auto" src="https://i.pinimg.com/originals/25/82/ba/2582babf61985de522b1cb3662836ec9.gif" style="object-fit: contain;">
+# João Antonio Jr <img src="https://i.pinimg.com/originals/25/82/ba/2582babf61985de522b1cb3662836ec9.gif" widht="50px">
 <h1 align="center">Olá! Meu nome é João Antonio Jr. Seja bem vindo ao meu perfil!</h1>
 <h3 align="center">Sou estudante de ADS na Faculdade Senac-PE</h3>
 
