@@ -1,4 +1,4 @@
-# João Antonio Jr <img src="https://media.tenor.com/a8K93X-8sSEAAAAM/mashle-dance-mashle-s2.gif" width="50px">
+# João Antonio <img src="https://media.tenor.com/a8K93X-8sSEAAAAM/mashle-dance-mashle-s2.gif" width="50px">
 <h1 align="center">Olá! Meu nome é João Antonio Jr. Seja bem vindo ao meu perfil!</h1>
 <h3 align="center">Sou estudante de ADS na Faculdade Senac-PE</h3>
 
