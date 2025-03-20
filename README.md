@@ -20,7 +20,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" alt="Adobe XD" width="40" height="40"/>
   </a>
 <a href="https://balsamiq.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/balsamiq.svg" alt="Balsamiq" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Balsamiq_Logo.svg" alt="Balsamiq" width="40" height="40"/>
   </a>
   <a href="https://miro.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/miro-2.svg" alt="Miro" width="40" height="40"/>
