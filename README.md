@@ -13,4 +13,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> **Canva** - Criação rápida de layouts e apresentações.
+<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+ <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" width="40" height="40"/>
+  </a>
