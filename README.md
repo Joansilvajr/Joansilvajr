@@ -19,8 +19,6 @@
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" alt="Adobe XD" width="40" height="40"/>
   </a>
-<a <img src="https://balsamiq.com/assets/brand/wordmark.png" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 30px; height: 30px; margin: 0px; width: 40px;" alt="Balsamiq Brand Assets" jsname="kn3ccd" aria-hidden="false">
-  </a>
   <a href="https://miro.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/miro-2.svg" alt="Miro" width="40" height="40"/>
   </a>
@@ -31,8 +29,5 @@
   </a>
     <a href="https://www.notion.so/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="Notion" width="40" height="40"/>
-  </a>
-<a href="https://basecamp.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Basecamp_Logo.svg" alt="Basecamp" width="40" height="40"/>
   </a>
 </p>
