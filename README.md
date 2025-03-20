@@ -21,21 +21,20 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" alt="Adobe XD" width="40" height="40"/>
   </a>
 <a href="https://balsamiq.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Balsamiq_Logo.svg" alt="Balsamiq" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/balsamiq.svg" alt="Balsamiq" width="40" height="40"/>
   </a>
   <a href="https://miro.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Miro_logo.svg/512px-Miro_logo.svg.png" alt="Miro" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/miro-2.svg" alt="Miro" width="40" height="40"/>
   </a>
    <a href="https://trello.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="Trello" width="40" height="40"/>
-  </a>
-    <a href="https://asana.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/asana/asana-icon.svg" alt="Asana" width="40" height="40"/>
+ <a href="https://asana.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/asana-1.svg" alt="Asana" width="40" height="40"/>
   </a>
     <a href="https://www.notion.so/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="Notion" width="40" height="40"/>
   </a>
- <a href="https://basecamp.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/basecamp/basecamp-icon.svg" alt="Basecamp" width="40" height="40"/>
+<a href="https://basecamp.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/basecamp-2.svg" alt="Basecamp" width="40" height="40"/>
   </a>
 </p>
