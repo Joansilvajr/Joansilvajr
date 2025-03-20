@@ -34,6 +34,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="Notion" width="40" height="40"/>
   </a>
 <a href="https://basecamp.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/basecamp-2.svg" alt="Basecamp" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Basecamp_Logo.svg" alt="Basecamp" width="40" height="40"/>
   </a>
 </p>
